@@ -1,4 +1,4 @@
 <?php
-
-
-   echo 'proute';
+ function echo(){
+     echo "bonjour"
+ }
